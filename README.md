@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a full-stack Airbnb-style web project to gain real-world development experience<br>👯 I’m looking to collaborate on web development and beginner-friendly open source projects<br>🤝 I’m looking for help with advanced DSA and backend architecture<br>🌱 I’m currently learning full-stack development, Java, and problem solving<br>💬 Ask me about Java, DSA, or building clone projects<br>⚡ Fun fact: I maintain a long coding streak and enjoy mentoring juniors while learning
+🔭 Hey, myself Vaibhav i’m looking to collaborate on web development and open source projects<br>🤝 I’m looking for help with advanced DSA and backend architecture<br>🌱 I’m currently learning full-stack development, Java, and problem solving<br>💬 Ask me about Java, DSA, or building projects<br>⚡ Fun fact: I maintain a long coding streak and enjoy mentoring juniors while learning
 
 
 ## 🌐 Socials:
